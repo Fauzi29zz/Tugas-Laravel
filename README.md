@@ -103,8 +103,7 @@ http://127.0.0.1:8000
 
 ---
 
-## 🎯 Penutup
+ Penutup
 
 Laravel sekarang sudah berhasil dijalankan dan siap digunakan untuk membangun aplikasi sesuai kebutuhan proyekmu.
 
-Happy coding! 💻🚀
