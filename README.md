@@ -91,7 +91,7 @@ php artisan serve
 
 ---
 
-### 📌 8. Laravel Siap Digunakan 🎉
+ 8. Laravel Siap Digunakan 
 
 Jika berhasil, kamu akan melihat tampilan default Laravel di browser:
 
