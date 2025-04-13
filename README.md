@@ -1,28 +1,28 @@
 ```markdown
-# 🚀 Panduan Instalasi Laravel di Laragon
+ Panduan Instalasi Laravel di Laragon
 
 Panduan langkah demi langkah untuk menginstall Laravel menggunakan **Laragon** sebagai web server lokal.
 
 ---
 
-## ✅ Prasyarat
+ Prasyarat
 
 Sebelum memulai, pastikan hal-hal berikut sudah tersedia di komputer kamu:
 
-- 🧰 Web Server seperti **[Laragon](https://laragon.org/)** atau XAMPP
-- 📦 Composer - PHP Dependency Manager (**[Download Composer](https://getcomposer.org/download/)**)
+-  Web Server seperti **[Laragon](https://laragon.org/)** atau XAMPP
+-  Composer - PHP Dependency Manager (**[Download Composer](https://getcomposer.org/download/)**)
 
 ---
 
-## 🛠️ Langkah-Langkah Instalasi Laravel
+ Langkah-Langkah Instalasi Laravel
 
-### 📌 1. Pastikan Web Server Terinstal
+ 1. Pastikan Web Server Terinstal
 
 Sebelum menginstall Laravel, pastikan kamu sudah memiliki **Laragon** atau **XAMPP**.
 
 ---
 
-### 📌 2. Install Composer
+ 2. Install Composer
 
 Unduh dan install Composer melalui file `composer-setup.exe`.
 
@@ -30,7 +30,7 @@ Unduh dan install Composer melalui file `composer-setup.exe`.
 
 ---
 
-### 📌 3. Buka Terminal dari Laragon
+ 3. Buka Terminal dari Laragon
 
 Buka aplikasi **Laragon**, lalu pilih menu **Terminal / Shell**.
 
@@ -38,7 +38,7 @@ Buka aplikasi **Laragon**, lalu pilih menu **Terminal / Shell**.
 
 ---
 
-### 📌 4. Cek Instalasi Composer
+ 4. Cek Instalasi Composer
 
 Untuk memastikan Composer berhasil diinstal, ketik perintah berikut di terminal:
 
@@ -52,7 +52,7 @@ Jika versi Composer muncul seperti gambar di atas, maka Composer siap digunakan.
 
 ---
 
-### 📌 5. Arahkan ke Folder Proyek Laravel
+ 5. Arahkan ke Folder Proyek Laravel
 
 Pindah ke folder `www` milik Laragon dengan perintah:
 
@@ -64,7 +64,7 @@ cd C:\laragon\www
 
 ---
 
-### 📌 6. Install Laravel
+ 6. Install Laravel
 
 Untuk mengunduh Laravel dan membuat project baru bernama `pelatihan`, jalankan perintah:
 
@@ -78,7 +78,7 @@ Tunggu proses instalasi hingga selesai.
 
 ---
 
-### 📌 7. Jalankan Project Laravel
+ 7. Jalankan Project Laravel
 
 Setelah instalasi selesai, masuk ke folder `pelatihan` dan jalankan server Laravel:
 
