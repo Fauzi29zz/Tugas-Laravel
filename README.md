@@ -1,5 +1,3 @@
-Berikut adalah versi `README.md` yang **lebih elegan dan rapi** dengan **penekanan visual menggunakan emoji, heading yang bersih, dan pemisahan konten per langkah** — **tanpa mengubah gambar** yang kamu gunakan:
-
 ```markdown
 # 🚀 Panduan Instalasi Laravel di Laragon
 
